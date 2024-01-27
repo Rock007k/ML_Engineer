@@ -1,0 +1,5 @@
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = '19803007@mail.jiit.ac.in'
+EMAIL_HOST_PASSWORD = '19803007@#gm'
+EMAIL_PORT = 587
